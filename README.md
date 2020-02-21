@@ -1,5 +1,5 @@
 # elephants
 
-9.  Most elephants have amazing memories.
+10.  Most elephants have amazing memories.
 
 # Conclusion
