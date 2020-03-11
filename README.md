@@ -1,5 +1,5 @@
 # elephants
 
-20.  Most whales have amazing memories.
+20.  Most elephants have amazing memories.
 
 # Conclusion
