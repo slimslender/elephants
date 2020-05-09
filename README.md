@@ -6,4 +6,4 @@
 
 # Update
 
-counter: 0
+counter: NaN
