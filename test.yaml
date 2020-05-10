@@ -1,9 +1,9 @@
-normal_key:
-  - key_a: A
-    key_b: B
-  - key_a: A2
-    key_b: B2
-and_another: value
+normalKey:
+  - keyA: A
+    keyB: B
+  - keyA: A2
+    keyB: B2
+andAnother: value
 andAnother: value
 yes: no
 no: yes
