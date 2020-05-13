@@ -1,7 +1,7 @@
-normal_key:
-  - key_a: A
-    key_b: B
-  - key_a: A2
-    key_b: B2
-    key_c: C1
-    key_d: D1
+normalKey:
+  - keyA: A
+    keyB: B
+  - keyA: A2
+    keyB: B2
+    keyC: C1
+    keyD: D1
